@@ -62,5 +62,4 @@ The project follows object-oriented principles with:
 
 - C# (.NET 8.0)
 - Object-Oriented Programming
-- Interface-based Design
 - SOLID Principles
